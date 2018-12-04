@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "37953006904",
+    "firebase_url": "https://seja-meu-guarda-chuva.firebaseio.com",
+    "project_id": "seja-meu-guarda-chuva",
+    "storage_bucket": "seja-meu-guarda-chuva.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37953006904:android:f0cb54985182a5a0",
+        "android_client_info": {
+          "package_name": "com.example.cesar.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37953006904-6habnhttv5adho0kj75lkdp5go63369t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cesar.myapplication",
+            "certificate_hash": "ad5dd22cea1a7a6c3d10c94444a932e8e39cc619"
+          }
+        },
+        {
+          "client_id": "37953006904-fhvbghosmv8jjn6ihh09hbfec47k7b10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgA7FOS8eKirLoBG96qFWLuEi8nactDgo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37953006904-fhvbghosmv8jjn6ihh09hbfec47k7b10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
